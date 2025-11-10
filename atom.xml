@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rong</title>
+  
+  <subtitle>blog</subtitle>
+  <link href="https://policypig.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://policypig.github.io/"/>
+  <updated>2025-11-10T15:16:30.238Z</updated>
+  <id>https://policypig.github.io/</id>
+  
+  <author>
+    <name>Rong</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>成都游记</title>
+    <link href="https://policypig.github.io/2025/11/10/%E6%88%90%E9%83%BD%E6%B8%B8%E8%AE%B0/index.html"/>
+    <id>https://policypig.github.io/2025/11/10/%E6%88%90%E9%83%BD%E6%B8%B8%E8%AE%B0/index.html</id>
+    <published>2025-11-10T14:51:35.000Z</published>
+    <updated>2025-11-10T15:16:30.238Z</updated>
+    
+    <content type="html"><![CDATA[<p>想去成都的想法实际上并没有一开始就出现，而是在保研之后感觉到身体上的劳累和精神状态的疲惫，想要出去旅游放松一下。但整个保研期间只想着该如何保研，没有想过去哪里玩。等到了保研结束再规划，询问身边的人，发现要么已经早已有约，要么需要备战考研。这时询问一个已经保研的舍友，已经很久没回四川老家，准备这次放假回家。思考许久，我突然想到我旅游还没去过四川，我让舍友带我去四川成都等地玩耍，有本地人带领，肯定会好玩。于是便跟他提议这件事，征得他同意之后，便有了这一次四川之旅。</p><h1 id="第一日"><a href="#第一日" class="headerlink" title="第一日"></a>第一日</h1><p>第一日是出发的时间，坦白说，四川之旅的计划变动过很多次</p><p>。。。未完待续</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;想去成都的想法实际上并没有一开始就出现，而是在保研之后感觉到身体上的劳累和精神状态的疲惫，想要出去旅游放松一下。但整个保研期间只想着该如何保研，没有想过去哪里玩。等到了保研结束再规划，询问身边的人，发现要么已经早已有约，要么需要备战考研。这时询问一个已经保研的舍友，已经很久</summary>
+      
+    
+    
+    
+    
+    <category term="九寨沟" scheme="https://policypig.github.io/tags/%E4%B9%9D%E5%AF%A8%E6%B2%9F/"/>
+    
+    <category term="三星堆" scheme="https://policypig.github.io/tags/%E4%B8%89%E6%98%9F%E5%A0%86/"/>
+    
+    <category term="脑花" scheme="https://policypig.github.io/tags/%E8%84%91%E8%8A%B1/"/>
+    
+    <category term="烤鸭" scheme="https://policypig.github.io/tags/%E7%83%A4%E9%B8%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://policypig.github.io/2022/11/16/hello-world/index.html"/>
+    <id>https://policypig.github.io/2022/11/16/hello-world/index.html</id>
+    <published>2022-11-16T08:57:56.382Z</published>
+    <updated>2022-11-16T08:57:56.382Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
